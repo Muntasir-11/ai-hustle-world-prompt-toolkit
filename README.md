@@ -49,4 +49,4 @@ Maintained by [Muntasir Ahmad Chowdhury](https://github.com/Muntasir-11), founde
 
 ## License
 
-The templates in this repo are released under the [MIT License](LICENSE) — use them freely, in commercial or personal work, no attribution required (though it's appreciated). The full long-form guides linked above remain the copyright of AI Hustle World.
+The templates in this repo are released under the [MIT License](LICENSE) — use them freely, in commercial or personal work. The license asks only that the copyright notice stay with any copies; a link back to AI Hustle World is appreciated but not required. The full long-form guides linked above remain the copyright of AI Hustle World.
