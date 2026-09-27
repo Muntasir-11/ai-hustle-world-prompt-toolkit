@@ -20,6 +20,7 @@ If you only take one thing from this repo, take the [Context Budget Test](templa
 | [Structured Output Checklist](templates/structured-output-checklist.md) | Designing a JSON schema for reliable data extraction | [How to Use Structured Prompts for Reliable JSON and Data Extraction](https://aihustleworld.com/2026/09/structured-prompts.html) |
 | [Few-Shot vs. Zero-Shot Decision Guide](templates/few-shot-vs-zero-shot-decision.md) | Deciding whether a prompt needs worked examples at all | [Few-Shot vs Zero-Shot Prompting](https://aihustleworld.com/2026/09/few-shot-vs-zero-shot-prompting.html) |
 | [Document Compression Decision Guide](templates/document-compression-decision.md) | Choosing how to shrink a long document before sending it to a model | [How to Compress Long Documents for AI](https://aihustleworld.com/2026/09/compress-long-documents-for-ai.html) |
+| [W.O.R.T.H. Score](templates/worth-scoring-framework.md) | Scoring a tool review or comparison so scores mean the same thing across articles | Site-wide scoring system used in AI Hustle World tool reviews and comparisons |
 
 ## How to use these
 
