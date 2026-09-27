@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these templates or frameworks, please cite them as below."
+title: "AI Hustle World Prompt Engineering Toolkit"
+type: software
+authors:
+  - family-names: "Chowdhury"
+    given-names: "Muntasir Ahmad"
+    website: "https://github.com/Muntasir-11"
+url: "https://aihustleworld.com"
+repository-code: "https://github.com/Muntasir-11/ai-hustle-world-prompt-toolkit"
+license: MIT
+abstract: "Reusable prompt-engineering templates and decision frameworks (system instructions, context budgeting, role prompting, structured output, few-shot vs zero-shot, document compression), each condensed from a long-form AI Hustle World guide that links to the research behind it."
+keywords:
+  - prompt engineering
+  - context engineering
+  - LLM
+  - templates
+  - decision frameworks

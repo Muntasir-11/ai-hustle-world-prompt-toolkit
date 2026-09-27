@@ -47,6 +47,10 @@ Found a case where one of these frameworks broke down, or have a template worth 
 
 Maintained by [Muntasir Ahmad Chowdhury](https://github.com/Muntasir-11), founder of [AI Hustle World](https://aihustleworld.com), an independent publication on practical AI tools, automation, and prompt engineering.
 
+## Citing this toolkit
+
+GitHub shows a "Cite this repository" button for this repo, generated from [CITATION.cff](CITATION.cff). If you reference one framework in particular, link to the full guide it came from as well, since that is where the evidence behind it lives.
+
 ## License
 
 The templates in this repo are released under the [MIT License](LICENSE) — use them freely, in commercial or personal work. The license asks only that the copyright notice stay with any copies; a link back to AI Hustle World is appreciated but not required. The full long-form guides linked above remain the copyright of AI Hustle World.
