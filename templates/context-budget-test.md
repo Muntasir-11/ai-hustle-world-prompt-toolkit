@@ -22,7 +22,7 @@ If this piece of context turned out to be unnecessary, would removing it have ch
 
 Models reliably use information near the start or end of a long context and lose track of the same information buried in the middle ("lost in the middle"). For anything a system genuinely cannot afford to miss — a hard safety constraint, a non-negotiable business rule — repeat it near the end of the context, immediately before the model generates its response.
 
-###3. Decay Check
+### 3. Decay Check
 **As a task continues across many turns, does this piece of context still deserve its spot, or has it become stale, already-used, or safely summarizable?**
 
 At regular intervals in a long session, ask: would this still be included if you were starting the task fresh right now, knowing everything you know at this point? Anything that fails is a compaction or removal candidate, not a permanent fixture.

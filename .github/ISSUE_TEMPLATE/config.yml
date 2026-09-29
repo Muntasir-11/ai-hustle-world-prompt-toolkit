@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security problem privately
+    url: https://github.com/Muntasir-11/ai-hustle-world-prompt-toolkit/security/policy
+    about: For a malicious pull request, a leaked credential or a repository configuration problem, please don't open a public issue.

@@ -2,7 +2,7 @@
 
 A small, practical collection of prompt-engineering templates and decision frameworks — the kind you actually reuse, not another list of "50 ChatGPT prompts."
 
-Everything here is pulled directly from long-form guides published on [AI Hustle World](https://aihustleworld.com), an independent publication about practical AI tools, prompting, and automation. Each template links back to the full guide it came from, with the research and reasoning behind it.
+Everything here is pulled directly from long-form guides published on [AI Hustle World](https://aihustleworld.com), an independent publication about practical AI tools, prompting, and automation. Each template links back to the full guide it came from, with the research and reasoning behind it. The one exception is the W.O.R.T.H. Score, which is the site-wide scoring system for tool reviews rather than a single guide.
 
 ## Why this exists
 
@@ -42,7 +42,7 @@ This toolkit is the condensed, practical layer on top of a longer content cluste
 
 ## Contributing
 
-Found a case where one of these frameworks broke down, or have a template worth adding in the same spirit (structure over one-liners)? Open an issue or a PR — genuinely useful additions are welcome.
+Found a case where one of these frameworks broke down, or have a template worth adding in the same spirit (structure over one-liners)? Open an issue or a PR — genuinely useful additions are welcome. [CONTRIBUTING.md](CONTRIBUTING.md) explains what makes a good addition.
 
 ## About
 
